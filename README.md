@@ -1,6 +1,4 @@
-Gatling 3 Fundamentals
-=========================
 
-Course code for the Gatling Fundamentals Udemy course - updated for Gatling v3
+# Performance lab 2
 
-https://www.udemy.com/gatling-fundamentals
+
